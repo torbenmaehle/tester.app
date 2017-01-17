@@ -12,6 +12,7 @@
 		4CA0745B1E29649E00B6565F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CA074591E29649E00B6565F /* Main.storyboard */; };
 		4CA0745D1E29649E00B6565F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CA0745C1E29649E00B6565F /* Assets.xcassets */; };
 		4CA074601E29649E00B6565F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CA0745E1E29649E00B6565F /* LaunchScreen.storyboard */; };
+		4CA074681E297DC000B6565F /* tobias_kort.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CA074671E297DC000B6565F /* tobias_kort.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4CA0745C1E29649E00B6565F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4CA0745F1E29649E00B6565F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4CA074611E29649E00B6565F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CA074671E297DC000B6565F /* tobias_kort.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tobias_kort.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				4CA074571E29649E00B6565F /* ViewController.swift */,
 				4CA074591E29649E00B6565F /* Main.storyboard */,
 				4CA0745C1E29649E00B6565F /* Assets.xcassets */,
+				4CA074671E297DC000B6565F /* tobias_kort.png */,
 				4CA0745E1E29649E00B6565F /* LaunchScreen.storyboard */,
 				4CA074611E29649E00B6565F /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 				4CA074601E29649E00B6565F /* LaunchScreen.storyboard in Resources */,
 				4CA0745D1E29649E00B6565F /* Assets.xcassets in Resources */,
 				4CA0745B1E29649E00B6565F /* Main.storyboard in Resources */,
+				4CA074681E297DC000B6565F /* tobias_kort.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
